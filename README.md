@@ -1,4 +1,4 @@
-## Trying to not suck at software
+### Trying to not suck at software
 
 
 | Currently doing  | Currently learning | Future learning  |
